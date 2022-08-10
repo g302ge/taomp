@@ -1,0 +1,13 @@
+[workspace] 
+members = [
+    "spining",
+    "blocking",
+    "linked_list",
+    "queue",
+    "stack",
+    "sorting",
+    "hashing",
+    "skip_list",
+    "scheduling",
+    "barrier",
+]
