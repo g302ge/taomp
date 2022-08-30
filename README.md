@@ -1,5 +1,9 @@
 # taomp
 
-The Art of Multiprocessor Programming Rust Implementation
+The Art of Multiprocessor Programming Rust Implementations.
 
-Some code maybe unsafe and unstable feature.
+Memory Management
+
+1. Hazard Pointer
+2. Epoch-Based Pointer
+

@@ -10,4 +10,6 @@ members = [
     "skip_list",
     "scheduling",
     "barrier",
+    "hazard",
+    "epoch",
 ]
